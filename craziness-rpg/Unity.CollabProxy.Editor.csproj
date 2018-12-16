@@ -361,6 +361,7 @@
     <Compile Include="Packages\com.unity.collab-proxy\Editor\Collab\Views\StatusView.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\DesignDoc\Docu\Design.txt" />
     <None Include="Packages\com.unity.analytics\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef" />

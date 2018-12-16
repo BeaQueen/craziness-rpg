@@ -322,6 +322,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BattleManager.cs" />
     <Compile Include="Assets\Narrate\Demos\2DDemo\Scripts\Elevator.cs" />
     <Compile Include="Assets\Narrate\Demos\2DDemo\Scripts\Generator.cs" />
     <Compile Include="Assets\Narrate\Demos\2DDemo\Scripts\GeneratorManager.cs" />
@@ -352,6 +353,7 @@
     <Compile Include="Assets\Narrate\Scripts\Triggers\TimerNarrationTrigger.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\DesignDoc\Docu\Design.txt" />
     <None Include="Packages\com.unity.analytics\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef" />
