@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.TextMeshPro.csproj", "{07A21C90-D344-AE1A-8456-9910C203B41A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "craziness-rpg", "craziness-rpg.csproj", "{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Analytics.DataPrivacy", "Unity.Analytics.DataPrivacy.csproj", "{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "craziness-rpg", "craziness-rpg.csproj", "{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "craziness-rpg.Editor", "craziness-rpg.Editor.csproj", "{F734B290-ED03-D1CF-8755-B50125F021D0}"
 EndProject
@@ -25,14 +25,14 @@ Global
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A21C90-D344-AE1A-8456-9910C203B41A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6E266C6-3D1F-28C8-9FEB-2A01E44DBF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ED34FE-1A15-3A35-26F3-9E46A2CD7433}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F734B290-ED03-D1CF-8755-B50125F021D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F734B290-ED03-D1CF-8755-B50125F021D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F734B290-ED03-D1CF-8755-B50125F021D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
